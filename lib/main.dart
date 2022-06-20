@@ -14,7 +14,7 @@ class hikurdstanApp extends StatelessWidget {
     return const MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text("hello kurdstan"),
+          child: Text("hello salam"),
         ),
       ),
     );
